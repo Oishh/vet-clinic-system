@@ -1,0 +1,59 @@
+{
+  "name": "vet-clinic-system",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "admin-lte": "^3.2.0",
+    "axios": "^1.4.0",
+    "bootstrap": "^4.6.2",
+    "chart.js": "^4.3.0",
+    "joi-browser": "^13.4.0",
+    "jquery": "^3.7.0",
+    "jwt-decode": "^3.1.2",
+    "moment": "^2.29.4",
+    "primeflex": "^3.3.1",
+    "primeicons": "^6.0.1",
+    "primereact": "^9.5.0",
+    "quill": "^1.3.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-moment": "^1.1.3",
+    "react-router-dom": "^6.11.2",
+    "react-scripts": "5.0.1",
+    "react-to-print": "^2.14.13",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint-config-xo": "^0.43.1",
+    "eslint-plugin-unicorn": "^47.0.0",
+    "webpack": "^5.88.1"
+  }
+}
